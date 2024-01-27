@@ -2145,7 +2145,7 @@
             "name" : "uniform_1001.001",
             "normalTexture" : {
                 "index" : 2,
-                "scale" : 0.3.399999976158142,
+                "scale" : 0.3399999976158142,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
